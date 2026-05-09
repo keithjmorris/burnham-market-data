@@ -28,5 +28,15 @@
     "latitude": 52.9455607,
     "longitude": 0.7245642,
     "id": "E1778344057504"
+  },
+  {
+    "title": "Dog show",
+    "date": "2026-05-25",
+    "time": "11-4",
+    "location": "The Green",
+    "description": "Our annual dog show event with miniature donkeys, face painting and Punch & Judy",
+    "latitude": 52.9455607,
+    "longitude": 0.7245642,
+    "id": "E1778345173878"
   }
 ]
