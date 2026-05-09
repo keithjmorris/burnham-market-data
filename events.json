@@ -18,5 +18,15 @@
     "description": "Annual classic car show featuring vehicles from across Norfolk.",
     "latitude": 52.9455607,
     "longitude": 0.7245642
+  },
+  {
+    "title": "Auction on the green",
+    "date": "2026-08-03",
+    "time": "Time from noon",
+    "location": "The Green",
+    "description": "Usual auction on the green",
+    "latitude": 52.9455607,
+    "longitude": 0.7245642,
+    "id": "E1778344057504"
   }
 ]
