@@ -1,0 +1,22 @@
+[
+  {
+    "id": "E1",
+    "title": "Farmers Market",
+    "date": "2026-05-10",
+    "time": "9am-1pm",
+    "location": "The Green",
+    "description": "Monthly farmers market with local produce from Norfolk suppliers.",
+    "latitude": 52.9455607,
+    "longitude": 0.7245642
+  },
+  {
+    "id": "E2",
+    "title": "Classic Car Show",
+    "date": "2026-05-17",
+    "time": "10am-4pm",
+    "location": "The Green",
+    "description": "Annual classic car show featuring vehicles from across Norfolk.",
+    "latitude": 52.9455607,
+    "longitude": 0.7245642
+  }
+]
