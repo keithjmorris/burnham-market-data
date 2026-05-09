@@ -27,6 +27,7 @@
   },
   {
     "id": "2",
+    "category": "shop",
     "name": "Arthur Howell",
     "description": "Butchers",
     "tags": [
