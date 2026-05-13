@@ -1606,5 +1606,31 @@
     "website": "https://wensumtrist.org.uk/burnhammarket",
     "social": "",
     "image": "school"
+  },
+  {
+    "id": "61",
+    "category": "facility",
+    "name": "Betty's Club",
+    "description": "Community Ccentre & sensory garden",
+    "tags": [
+      "Medical"
+    ],
+    "phoneNumber": "",
+    "postCode": "",
+     "latitude": 52.9441,
+    "longitude": 0.7315514,
+    "openingHours": {
+      "monday": "9am-5pm",
+      "tuesday": "9am-5pm",
+      "wednesday": "9am-5pm",
+      "thursday": "9am-5pm",
+      "friday": "9am-5pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "special": ""
+    },
+    "website": "https://bettysclub.com",
+    "social": "",
+    "image": "school"
   }
 ]
