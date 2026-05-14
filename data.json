@@ -73,7 +73,7 @@
       "sunday": "10.30am-4.30pm",
       "special": ""
     },
-    "website": "https://aubinand wills.com",
+    "website": "https://aubinandwills.com",
     "social": "https://www.instagram.com/aubinandwills/",
     "image": "aubin"
   },
@@ -571,7 +571,7 @@
       "special": ""
     },
     "website": "https://www.illann.com",
-    "social": "https://www.instagram.com/illianncashmere",
+    "social": "https://www.instagram.com/illanncashmere",
     "image": "illann"
   },
   {
@@ -1126,7 +1126,7 @@
       "special": ""
     },
     "website": "https://www.tillys-cafe.co.uk",
-    "social": "https://www.instagram.com/arthurhowellbutchers",
+    "social": "https://www.instagram.com/tillyscafe+burnhammarket",
     "image": "tillys"
   },
   {
@@ -1268,7 +1268,7 @@
     "image": "smallbmandnvh"
   },
   {
-    "id": 49,
+    "id": "49",
     "category": "facility",
     "name": "Burnham Motors",
     "description": "Petrol station",
@@ -1551,7 +1551,7 @@
       "sunday": "",
       "special": "Refer to notice at the church"
     },
-    "website": "https://www.rcdea.rog.uk/locations/st-henry-walpole",
+    "website": "https://www.rcdea.org.uk/locations/st-henry-walpole",
     "social": "",
     "image": "sthenryscatholicchurch"
   },
