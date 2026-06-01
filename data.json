@@ -874,12 +874,12 @@
     "latitude": 52.9454688,
     "longitude": 0.7264879,
     "openingHours": {
-      "monday": "9.30am-5.30pm",
-      "tuesday": "9.30am-5.30pm",
-      "wednesday": "9.30am-5.30pm",
-      "thursday": "9.30am-5.30pm",
-      "friday": "9.30am-5.30pm",
-      "saturday": "9.30am-3pm",
+      "monday": "9.00am-5.00pm",
+      "tuesday": "9.00am-5.00pm",
+      "wednesday": "9.00am-5.00pm",
+      "thursday": "9.00am-5.00pm",
+      "friday": "9.00am-5.00pm",
+      "saturday": "9.00am-5.00pm",
       "sunday": "Closed",
       "special": ""
     },
