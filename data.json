@@ -862,6 +862,32 @@
     "image": "sowerbys"
   },
   {
+    "id": "63",
+    "category": "shop",
+    "name": "Sowerbys Holiday Cottages",
+    "description": "Holdiay letitngs",
+    "tags": [
+      "Estate agent"
+    ],
+    "phoneNumber": "01328 730880‎",
+    "postCode": "PE31 8HD",
+    "latitude": 52.9454688,
+    "longitude": 0.7264879,
+    "openingHours": {
+      "monday": "9.30am-5.30pm",
+      "tuesday": "9.30am-5.30pm",
+      "wednesday": "9.30am-5.30pm",
+      "thursday": "9.30am-5.30pm",
+      "friday": "9.30am-5.30pm",
+      "saturday": "9.30am-3pm",
+      "sunday": "Closed",
+      "special": ""
+    },
+    "website": "https://www.sowerbysholidaycottages.co.uk",
+    "social": "",
+    "image": "sowerbys"
+  },
+  {
     "id": "34",
     "category": "shop",
     "name": "Urban Armour",
