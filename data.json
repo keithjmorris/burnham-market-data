@@ -104,6 +104,32 @@
     "image": "aurina"
   },
   {
+    "id": "64",
+    "category": "shop",
+    "name": "BB Textiles",
+    "description": "Interior design",
+    "tags": [
+      "Homewares"
+    ],
+    "phoneNumber": "01328 738820",
+    "postCode": "PE31",
+    "latitude": 52.9460954,
+    "longitude": 0.7272483,
+    "openingHours": {
+      "monday": "9.30am-5pm",
+      "tuesday": "9.30am-5pm",
+      "wednesday": "9.30am-5pm",
+      "thursday": "9.30am-5pm",
+      "friday": "9.30am-5pm",
+      "saturday": "9.30am-5pm",
+      "sunday": "10am-4pm",
+      "special": ""
+    },
+    "website": "",
+    "social": "https://www.instagram.com/bb_textiles/",
+    "image": "urbanarmour"
+  },
+  {
     "id": "5",
     "category": "shop",
     "name": "Barefoot Living",
