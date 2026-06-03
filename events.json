@@ -1,15 +1,5 @@
 [
   {
-    "id": "E2",
-    "title": "Classic Car Show",
-    "date": "2026-05-17",
-    "time": "10am-4pm",
-    "location": "The Green",
-    "description": "Annual classic car show featuring vehicles from across Norfolk.",
-    "latitude": 52.9455607,
-    "longitude": 0.7245642
-  },
-  {
     "title": "Auction on the green",
     "date": "2026-06-15",
     "time": "Time from noon",
