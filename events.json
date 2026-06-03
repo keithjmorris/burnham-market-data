@@ -2,11 +2,11 @@
   {
     "title": "Auction on the green",
     "date": "2026-06-15",
-    "time": "Time from noon",
+    "time": "Auction starts at noon.",
     "location": "The Green",
     "description": "Usual auction on the green",
-    "latitude": 52.9455607,
-    "longitude": 0.7245642,
+    "latitude": null,
+    "longitude": null,
     "id": "E1778344057504"
   }
 ]
