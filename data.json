@@ -370,7 +370,7 @@
     "id": "14",
     "category": "shop",
     "name": "Eric & Dolly's",
-    "description": "Pet boutique",
+    "description": "Dog boutique",
     "tags": [
       "Pet"
     ],
@@ -381,9 +381,9 @@
     "openingHours": {
       "monday": "Closed",
       "tuesday": "Closed",
-      "wednesday": "10.30am-4pm",
-      "thursday": "10.30am-4pm",
-      "friday": "10.30am-4pm",
+      "wednesday": "10.30am-5pm",
+      "thursday": "10.30am-5pm",
+      "friday": "10.30am-5pm",
       "saturday": "10.30am-5pm",
       "sunday": "Closed",
       "special": ""
@@ -681,7 +681,7 @@
   {
     "id": "26",
     "category": "shop",
-    "name": "No.Thirty3 The Bakery",
+    "name": "Nothirty3 The Bakery",
     "description": "Bakery",
     "tags": [
       "Bakery"
@@ -822,12 +822,12 @@
     "latitude": 52.9457738,
     "longitude": 0.7261112,
     "openingHours": {
-      "monday": "10am-5pm",
-      "tuesday": "10am-5pm",
-      "wednesday": "10am-5pm",
-      "thursday": "10am-5pm",
-      "friday": "10am-5pm",
-      "saturday": "10am-5pm",
+      "monday": "9am-5pm",
+      "tuesday": "9am-5pm",
+      "wednesday": "Closed",
+      "thursday": "Closed",
+      "friday": "Closed",
+      "saturday": "Closed",
       "sunday": "Closed",
       "special": ""
     },
@@ -995,8 +995,8 @@
   {
     "id": "37",
     "category": "restaurant",
-    "name": "No.Twenty Nine",
-    "description": "Restaurant and bar",
+    "name": "NoTwenty9 Bar & Restaurant",
+    "description": "Restaurant and bar with rooms",
     "tags": [
       "Restaurant",
       "Bar"
@@ -1006,13 +1006,13 @@
     "latitude": 52.9456536,
     "longitude": 0.7259952,
     "openingHours": {
-      "monday": "Closed",
-      "tuesday": "Closed",
+      "monday": "9am-11pm",
+      "tuesday": "9am-11pm",
       "wednesday": "9am-11pm",
       "thursday": "9am-11pm",
       "friday": "9am-11pm",
       "saturday": "9am-11pm",
-      "sunday": "9am-11pm",
+      "sunday": "9am-10.30pm",
       "special": ""
     },
     "website": "https://www.number-29.com",
