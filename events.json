@@ -2,11 +2,16 @@
   {
     "title": "Auction on the green",
     "date": "2026-06-22",
-    "time": "Auction starts at noon.  Entries from 6.30am",
+    "time": "Auction from noon.  Consignments from 6.30am",
     "location": "The Green",
     "description": "Usual auction on the green",
     "latitude": null,
     "longitude": null,
-    "id": "E1778344057504"
+    "id": "E1778344057504",
+    "type": "recurring",
+    "dayOfWeek": "monday",
+    "frequency": "weekly",
+    "startDate": "2026-06-22",
+    "endDate": "2026-09-14"
   }
 ]
