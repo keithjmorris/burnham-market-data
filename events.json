@@ -27,5 +27,19 @@
     "latitude": 52.9450112,
     "longitude": 0.7225797,
     "id": "E1781767617303"
+  },
+  {
+    "type": "recurring",
+    "title": "The Burnhams Market",
+    "location": "St. Mary's Church",
+    "description": "Local artisans, makers & creativity",
+    "dayOfWeek": "saturday",
+    "time": "8.30am",
+    "frequency": "monthly",
+    "startDate": "2026-06-27",
+    "endDate": "2026-09-26",
+    "latitude": 52.9450112,
+    "longitude": 0.7225797,
+    "id": "E1781767618023"
   }
 ]
