@@ -38,5 +38,16 @@
     "latitude": 52.9444178,
     "longitude": 0.729474,
     "id": "E1782057911066"
+  },
+  {
+    "type": "one-off",
+    "title": "Rogue Trader",
+    "date": "2026-07-11",
+    "time": "All day every day until 11th July",
+    "location": "All around the village",
+    "description": "Find the rogue items in shop windows in Burnham Market. Pick up your entry forms at the Post Office.",
+    "latitude": null,
+    "longitude": null,
+    "id": "E1782060951065"
   }
 ]
