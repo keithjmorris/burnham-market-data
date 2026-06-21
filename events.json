@@ -49,5 +49,16 @@
     "latitude": null,
     "longitude": null,
     "id": "E1782060951065"
+  },
+  {
+    "type": "one-off",
+    "title": "Music in the Marquee",
+    "date": "2026-07-11",
+    "time": "7.30pm",
+    "location": "Playing Field",
+    "description": "Music with Random ID & Vex\nFree entry & licensed bar - happy hour 7.30-8.30pm",
+    "latitude": 52.9444178,
+    "longitude": 0.729474,
+    "id": "E1782061081700"
   }
 ]
