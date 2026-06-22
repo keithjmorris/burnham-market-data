@@ -82,5 +82,16 @@
     "latitude": 52.9506806,
     "longitude": 0.7303011,
     "id": "E1782114471140"
+  },
+  {
+    "type": "one-off",
+    "title": "Festival Week",
+    "date": "2026-07-19",
+    "time": "3pm",
+    "location": "St. Mary's Church",
+    "description": "Choral Evensong\nhttps://musicintheburnhams.com/festival-week/",
+    "latitude": 52.9450112,
+    "longitude": 0.7225797,
+    "id": "E1782114635698"
   }
 ]
