@@ -89,9 +89,10 @@
     "date": "2026-07-19",
     "time": "3pm",
     "location": "St. Mary's Church",
-    "description": "Choral Evensong\nhttps://musicintheburnhams.com/festival-week/",
+    "description": "19th July Choral Evensong at St. Mary's Church\nhttps://musicintheburnhams.com/festival-week/",
     "latitude": 52.9450112,
     "longitude": 0.7225797,
-    "id": "E1782114635698"
+    "id": "E1782114635698",
+    "endDate": "2026-07-24"
   }
 ]
