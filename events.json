@@ -61,5 +61,18 @@
     "longitude": 0.7225797,
     "id": "E1782114635698",
     "endDate": "2026-07-24"
+  },
+  {
+    "type": "one-off",
+    "title": "Burnham Market Craft Fair",
+    "date": "2026-08-15",
+    "time": "9am",
+    "location": "Village Green",
+    "endDate": null,
+    "description": "The much loved Burnham Market Craft Fair returns for another year with around 100 stalls selling curated craft and arts.",
+    "documentUrl": "https://raw.githubusercontent.com/keithjmorris/burnham-market-craft-fair/main/images/burnhammarketcraftfairposter3.jpg",
+    "latitude": 52.9451813,
+    "longitude": 0.7234069,
+    "id": "E1783934085674"
   }
 ]
