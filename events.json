@@ -61,18 +61,5 @@
     "longitude": 0.7225797,
     "id": "E1782114635698",
     "endDate": "2026-07-24"
-  },
-  {
-    "type": "one-off",
-    "title": "Burnham Market’s Mind Body and Spirit Fayre",
-    "date": "2026-07-12",
-    "time": "10am - 3pm",
-    "location": "Village Hall",
-    "endDate": null,
-    "description": "Readers, therapist & trade",
-    "documentUrl": null,
-    "latitude": 52.9413887,
-    "longitude": 0.7318252,
-    "id": "E1783152244270"
   }
 ]
