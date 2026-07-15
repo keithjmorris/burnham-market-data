@@ -1765,5 +1765,14 @@
     "website": "https://bettysclub.com",
     "social": "",
     "image": "thesurgery"
-  }
+  },
+  {
+  "id": "CF1",
+  "category": "parking-temp",
+  "name": "Craft Fair Parking",
+  "description": "Additional parking for Craft Fair day only (Saturday 16th August)",
+  "latitude": 52.9442728,
+  "longitude": 0.7293712,
+  "image": ""
+}
 ]
