@@ -1,5 +1,303 @@
 [
   { "stallNumber": "4", "lat": 52.9457451, "lng": 0.7267439 },
    { "stallNumber": "32", "lat": 52.9456142, "lng": 0.7268019 },
-  { "stallNumber": "83/A05", "lat": 52.9453423, "lng": 0.7233210 }
+  { "stallNumber": "83/A05", "lat": 52.9453423, "lng": 0.7233210 },
+  [
+  {
+    "stallNumber": "A01",
+    "lat": 52.9451296,
+    "lng": 0.7233700
+  },
+  {
+    "stallNumber": "O03",
+    "lat": 52.9456658,
+    "lng": 0.7269149
+  },
+  {
+    "stallNumber": "O07/8",
+    "lat": 52.9457757,
+    "lng": 0.7267871
+  },
+  {
+    "stallNumber": "B06",
+    "lat": 522.9454112,
+    "lng": 0.7237391
+  },
+  {
+    "stallNumber": "D07",
+    "lat": 52.945898,
+    "lng": 0.7238249
+  },
+  {
+    "stallNumber": "C03",
+    "lat": 52.96452819,
+    "lng": 0.7235138
+  },
+  {
+    "stallNumber": "O09",
+    "lat": 52.9457330,
+    "lng": 0.7268035
+  },
+  {
+    "stallNumber": "K02/3",
+    "lat": 52.9452739,
+    "lng": 0.7254640
+  },
+  {
+    "stallNumber": "O02",
+    "lat": 52.94456120,
+    "lng": 0.7269457
+  },
+  {
+    "stallNumber": "B11",
+    "lat": 52.9454272,
+    "lng": 0.7240606
+  },
+  {
+    "stallNumber": "D05",
+    "lat": 52.9452086,
+    "lng": 0.7237636
+  },
+  {
+    "stallNumber": "G06",
+    "lat": 52.9451330,
+    "lng": 0.7240373
+  },
+  {
+    "stallNumber": "O01",
+    "lat": 52.9456078,
+    "lng": 0.7268786
+  },
+  {
+    "stallNumber": "B04",
+    "lat": 52.9454187,
+    "lng": 0.7235913
+  },
+  {
+    "stallNumber": "K07",
+    "lat": 52.9453993,
+    "lng": 0.7253210
+  },
+  {
+    "stallNumber": "A04",
+    "lat": 52.9452894,
+    "lng": 0.7233046
+  },
+  {
+    "stallNumber": "H05",
+    "lat": 52.9452469,
+    "lng": 0.7247265
+  },
+  {
+    "stallNumber": "O09",
+    "lat": 52.9457292,
+    "lng": 0.7268203
+  },
+  {
+    "stallNumber": "G10",
+    "lat": 52.9452073,
+    "lng": 0.7243077
+  },
+  {
+    "stallNumber": "O06",
+    "lat": 52.9457914,
+    "lng": 0.7268297
+  },
+  {
+    "stallNumber": "G02",
+    "lat": 52.9451366,
+    "lng": 0.7238025
+  },
+  {
+    "stallNumber": "G12",
+    "lat": 52.9452207,
+    "lng": 0.7244368
+  },
+  {
+    "stallNumber": "B10",
+    "lat": 52.9454290,
+    "lng": 0.7240234
+  },
+  {
+    "stallNumber": "G11",
+    "lat": 52.9452128,
+    "lng": 0.7244016
+  },
+  {
+    "stallNumber": "O04",
+    "lat": 52.9457211,
+    "lng": 0.7268897
+  },
+  {
+    "stallNumber": "C06",
+    "lat": 52.9453235,
+    "lng": 0.7235882
+  },
+  {
+    "stallNumber": "WM5",
+    "lat": 52.9454910,
+    "lng": 0.7257618
+  },
+  {
+    "stallNumber": "WM6",
+    "lat": 52.9454910,
+    "lng": 0.7257618
+  },
+  {
+    "stallNumber": "D 02",
+    "lat": 52.9451443,
+    "lng": 0.7234696
+  },
+  {
+    "stallNumber": "J04",
+    "lat": 52.9452839,
+    "lng": 0.7251795
+  },
+  {
+    "stallNumber": "L14",
+    "lat": 52.9454844,
+    "lng": 0.7264344
+  },
+  {
+    "stallNumber": "G08",
+    "lat": 52.9451882,
+    "lng": 0.7241210
+  },
+  {
+    "stallNumber": "L07",
+    "lat": 52.9457118,
+    "lng": 0.7267160
+  },
+  {
+    "stallNumber": "D10",
+    "lat": 52.9452928,
+    "lng": 0.7235061
+  },
+  {
+    "stallNumber": "D13",
+    "lat": 52.9453223,
+    "lng": 0.7237361
+  },
+  {
+    "stallNumber": "H04",
+    "lat": 52.9452512,
+    "lng": 0.7246635
+  },
+  {
+    "stallNumber": "G01",
+    "lat": 52.9451187,
+    "lng": 0.7237136
+  },
+  {
+    "stallNumber": "D15",
+    "lat": 52.9453082,
+    "lng": 0.7238860
+  },
+  {
+    "stallNumber": "D12",
+    "lat": 52.9453065,
+    "lng": 0.7236858
+  },
+  {
+    "stallNumber": "WM07",
+    "lat": 52.9453672,
+    "lng": 0.7257548
+  },
+  {
+    "stallNumber": "B09",
+    "lat": 52.9454268,
+    "lng": 0.7239752
+  },
+  {
+    "stallNumber": "B08",
+    "lat": 52.94454245,
+    "lng": 0.7239192
+  },
+  {
+    "stallNumber": "C05",
+    "lat": 52.9453467,
+    "lng": 0.7236302
+  },
+  {
+    "stallNumber": "83/A05",
+    "lat": 52.9453203,
+    "lng": 0.7232872
+  },
+  {
+    "stallNumber": "B03",
+    "lat": 52.9454195,
+    "lng": 0.7235229
+  },
+  {
+    "stallNumber": "WM4",
+    "lat": 52.9454991,
+    "lng": 0.7260234
+  },
+  {
+    "stallNumber": "O01",
+    "lat": 52.9456086,
+    "lng": 0.7268800
+  },
+  {
+    "stallNumber": "C4",
+    "lat": 52.9452916,
+    "lng": 0.7235879
+  },
+  {
+    "stallNumber": "G05",
+    "lat": 52.9451330,
+    "lng": 0.7240373
+  },
+  {
+    "stallNumber": "D08",
+    "lat": 52.9451916,
+    "lng": 0.7234491
+  },
+  {
+    "stallNumber": "D08",
+    "lat": 52.9451916,
+    "lng": 0.7234491
+  },
+  {
+    "stallNumber": "WM08",
+    "lat": 52.9454223,
+    "lng": 0.7259754
+  },
+  {
+    "stallNumber": "CO3",
+    "lat": 52.9452350,
+    "lng": 0.7234692
+  },
+  {
+    "stallNumber": "58",
+    "lat": 52.9450785,
+    "lng": 0.7237237
+  },
+  {
+    "stallNumber": "K6",
+    "lat": 52.9455027,
+    "lng": 0.7258188
+  },
+  {
+    "stallNumber": "G09",
+    "lat": 52.9451942,
+    "lng": 0.7242125
+  },
+  {
+    "stallNumber": "98",
+    "lat": 0.0,
+    "lng": 0.0
+  },
+  {
+    "stallNumber": "G07",
+    "lat": 52.9451330,
+    "lng": 0.7240373
+  },
+  {
+    "stallNumber": "L02",
+    "lat": 52.9456332,
+    "lng": 0.7263318
+  }
+]
+
 ]
