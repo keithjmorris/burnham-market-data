@@ -10,8 +10,7 @@
      "lng": 0.7268019
    },
   {
-    "stallNumber": 
-    "83/A05", 
+    "stallNumber": "83/A05", 
     "lat": 52.9453423, 
     "lng": 0.7233210 
   },
@@ -296,9 +295,9 @@
     "lng": 0.7242125
   },
   {
-    "stallNumber": "98",
-    "lat": 0.0,
-    "lng": 0.0
+    "stallNumber": "D06",
+    "lat": 52.945898,
+    "lng": 0.7238249
   },
   {
     "stallNumber": "G07",
