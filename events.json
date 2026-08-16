@@ -46,18 +46,6 @@
   },
   {
     "type": "one-off",
-    "title": "Festival Week",
-    "date": "2026-07-19",
-    "time": "3pm",
-    "location": "St. Mary's Church",
-    "description": "19th July Choral Evensong at St. Mary's Church\nhttps://musicintheburnhams.com/festival-week/",
-    "latitude": 52.9450112,
-    "longitude": 0.7225797,
-    "id": "E1782114635698",
-    "endDate": "2026-07-24"
-  },
-  {
-    "type": "one-off",
     "title": "Burnham Market Craft Fair",
     "date": "2026-08-15",
     "time": "9am",
